@@ -1,45 +1,17 @@
 # 👋 Hi, I'm Vansh Jaswal
+### 🎓 B.Tech CSE Student | Cyber Security | AI & ML | Physics Research
 
-- 🎓 B.Tech CSE Student
-- 🔬 Interested in Physics Research, Cyber Security, and Artificial Intelligence
-- 📚 Currently learning Ai-ML , kali linux and software devlopment
-- 🏆 National-Level Debater & Olympiad Winner in physics and computer science enthusiast
-- 💻 Exploring Open Source, System Design, and Research-Oriented Development
-- 🌱 Building projects and learning through self-study
+## 🧠 About Me
+- 🎯 Interested in Physics Research, Cyber Security & AI
+- 🐧 Learning: Kali Linux, AI/ML, Software Development
+- 🏆 National-Level Debater & Physics Olympiad Winner
+- 🔬 Exploring: Open Source, System Design, Research Dev
+- 📫 Email: vanshjaswal17@gmail.com
 
----
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 
-## Areas of Interest
-
-- Cyber Security
-- Artificial Intelligence
-- Physics & Computational Research
-- System Design
-- Linux & Networking
-
----
-
-## Currently Working On
-
-- Data Structures & Algorithms
-- AI & Vector Databases
-- Linux and Backend Systems
-- Research and Technical Projects
-
----
-
-## Contact
-
-📧 Email: `vanshjaswal17@gmail.com`
-
----
-
-## GitHub Stats
-
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanshJaswal1&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshJaswal1&layout=compact)
-
----
-
-> “Curiosity drives innovation.”
+## 📊 GitHub Stats
+![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanshJaswal1&show_icons=true&theme=dark)
